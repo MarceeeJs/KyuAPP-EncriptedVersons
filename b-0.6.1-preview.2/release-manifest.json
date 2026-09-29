@@ -1,0 +1,8 @@
+{
+  "version": "b-0.6.1-preview.2",
+  "url": "https://github.com/MarceeeJs/KyuAPP-EncriptedVersons/releases/download/b-0.6.1-preview.2/KyuApp-b-0.6.1-preview.2-win-x64.kyu",
+  "sha256": "26cf55b29aa490b8ce29e7e4589d3a711d92025a8a9f12b0842d87fe93ca89e0",
+  "bytes": 92549028,
+  "notes": "KyuApp b-0.6.1 preview 2 — rendimiento y controles.\n\n- Una sola partida: pestañas extra y Headless retirados temporalmente.\n- Barras para delay, grosor de líneas y bordes de jugador/pelota.\n- Input/s, retardo local, CPU y RAM junto a FPS; actualización a 1 Hz.\n- Menos trabajo por cuadro en cámara, bordes, caché de pelota y marcador.\n- Compatible identificado como software (CPU). DirectX 11 conserva rasterización automática tras comparar con Zero.\n\nDescargar KyuApp-Setup.exe: descarga e instala el paquete completo. Windows x64; Discord y rol Kyu requeridos. La versión anterior permanece instalada y los ajustes se conservan. El EXE no tiene firma Authenticode.\n\nPasaron 65 pruebas automáticas y pruebas del launcher/indicador en Electron 13. No se garantiza recuperar una cifra concreta de FPS; falta comparar la misma sala y configuración del reporte. Esta preview no completa todo el TXT de beta 0.6.1.\n",
+  "installerSha256": "625d63d2c2f6e80a45f03d6f61ec0002fcfce95035d0bacef3f6c6346df91d44"
+}
